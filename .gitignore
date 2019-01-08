@@ -1,0 +1,11 @@
+*.xlsx
+
+*.pptx
+
+*.txt
+
+*.pdf
+
+*.csv
+
+.ipynb_checkpoints
